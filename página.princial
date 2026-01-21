@@ -54,13 +54,11 @@ body {font-family: "Lato", sans-serif}
     </div>
   </div>
 
-  <!-- The Band Section -->
+  <!-- Pequeña introducción -->
   <div class="w3-container w3-content w3-center w3-padding-64" style="max-width:800px" id="band">
     <h2 class="w3-wide">¿Qué es el baile urbano?</h2>
     <p class="w3-opacity"><i>We love dancing</i></p>
-    <p class="w3-justify">We have created a fictional band website. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-      ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur
-      adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+    <p class="w3-justify">El baile urbano, también llamado 'baile callejero' o 'street dance' es un tipo de baile bastante variado, algunos tipos son el Hip Hop, Popping, Dance House, el Breaking, Uprocking, Liquid Dancing, Tutting, Waacking, Krumping, Comercial Dancey y el Dancehall, entre otros. El estilo más popular de todos esos es el Hip Hop. Estos estilos de baile se origináron principalmente en las calles, fiestas de barrio, discotecas, patios... Esta clase de baile se caracteriza por sus movimientos claros y fuertes, también, algo que lo caracteriza mucho, es el estilo, es muy característico bailar street dance con ropa ancha, sobretodo los pantalones, algunos estilos que suelen tener las personas que lo bailan es el streetwear o ropa de los raperos en los 2000. Lo más llamativo de este tipo de baile es que se puede bailar individualmente o en grupos, gracias a eso se pueden crear diversas coreografías y posiciones.</p>
     <div class="w3-row w3-padding-32">
       <div class="w3-third">
         <p>Name</p>
